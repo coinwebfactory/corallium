@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Corallium
+Comment=Corallium P2P Cryptocurrency
+Comment[fr]=Corallium, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Corallium, eşten eşe kriptografik sanal para birimi
+Exec=corallium-qt %u
+Terminal=false
+Type=Application
+Icon=corallium128
+MimeType=x-scheme-handler/corallium;
+Categories=Office;Finance;
